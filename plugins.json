@@ -2,5 +2,7 @@
   "name": "Benim IPTV Depom",
   "description": "Xtream IPTV eklentim",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/xserhat49/xserhat49/refs/heads/main/XtreamIPTVProvider.plugin"
+  ]
 }
